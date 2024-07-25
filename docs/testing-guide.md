@@ -66,7 +66,7 @@ Foundry provides a robust testing framework for Solidity smart contracts. It all
 Unit tests focus on testing individual functions or components of your smart contract in isolation.
 
 Example:
-    ```
+
     function testDeposit() public {
         uint256 depositAmount = 100;
         myContract.deposit{value: depositAmount}();
