@@ -8,7 +8,6 @@ This repository demonstrates best practices for developing, testing, deploying, 
 2. [Development Guide](docs/development-guide.md)
 3. [Testing Guide](docs/testing-guide.md)
 4. [Deployment Guide](docs/deployment-guide.md)
-5. [Verification Guide](docs/verification-guide.md)
 
 ## Getting Started
 
