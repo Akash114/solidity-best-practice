@@ -13,8 +13,8 @@ This repository demonstrates best practices for developing, testing, deploying, 
 ## Getting Started
 
 1. Install Foundry: https://book.getfoundry.sh/getting-started/installation
-2. Clone this repository: `git clone https://github.com/akash114/foundry-smart-contract-best-practices.git`
-3. Navigate to the project directory: `cd foundry-smart-contract-best-practices`
+2. Clone this repository: `git clone https://github.com/Akash114/solidity-best-practice`
+3. Navigate to the project directory: `cd solidity-best-practice`
 4. Install dependencies: `forge install`
 5. Build the project: `forge build`
 6. Run tests: `forge test`
